@@ -1,0 +1,16 @@
+
+<!-- this is a loadeing screen function -->
+  <!-- <div class="loader-wrapper">
+    <div class="u-loading">
+      <div class="u-loading__symbol">
+        <img src="pisosmall.png">
+      </div>
+    </div>
+  </div>
+  <script>
+    // loader
+    $(window).on("load", function() {
+      $(".loader-wrapper").fadeOut("slow");
+
+    });
+  </script> -->
